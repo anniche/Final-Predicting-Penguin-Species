@@ -7,4 +7,9 @@ The goal of this project is to determine which features are most predictive of p
 
 **Python Packages**
 
-- 
+- pandas 1.4.2
+- numpy 1.21.5
+- math
+- seaborn 0.112
+- pyplot from matplotlib 3.5.1
+- train_test_split, cross_val_score, tree, preprocessing, LogisticRegression, classification_report, confusion_matrix from sklearn 1.0.2
