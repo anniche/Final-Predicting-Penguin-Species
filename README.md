@@ -5,4 +5,6 @@
 
 The goal of this project is to determine which features are most predictive of penguin species and build and optimize a machine learning model that will predict penguin species.
 
-**Data Import + Cleaning**
+**Python Packages**
+
+- 
